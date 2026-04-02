@@ -1,3 +1,5 @@
+## 🔗 Connect with Me
+GitHub: https://github.com/VijayWagh1
 # File Integrity Monitor (Ransomware Detection Style)
 
 This is a simple File Integrity Monitor designed to detect potential ransomware attacks by monitoring file changes, sudden modifications, and mass file renaming.
