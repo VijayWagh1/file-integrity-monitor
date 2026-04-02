@@ -1,0 +1,13 @@
+# Ignore generated data files
+hash_database.json
+blockchain_ledger.json
+change_history.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
